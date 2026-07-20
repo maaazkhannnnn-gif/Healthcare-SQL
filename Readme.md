@@ -205,7 +205,7 @@ Statistics Student | Data Analytics Enthusiast
 
 ### Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/maazkhan
+- LinkedIn: https://www.linkedin.com/in/maaz-khan-wrangler
 - GitHub: https://github.com/maaazkhannnnn-gif
 
 ---
